@@ -1,1 +1,1 @@
-# HotelChain
+# PureLifeHotels
